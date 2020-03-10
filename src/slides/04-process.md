@@ -1,4 +1,36 @@
-# Process
+# Progress
+
+---
+
+<div style="width:800px; margin:auto;">
+<div class="gridImg">
+<div class="gridItem"><img src="./netgearoutside.jpg" alt=""></div>
+<div class="gridItem"><img src="./netgearinside1.jpg" alt=""></div>
+</div>
+<div class="gridImg">
+<div class="gridItem"><img src="./switchinside1.jpg" alt=""></div>
+<div class="gridItem"><img src="./switchoutside.jpg" alt=""></div>
+</div>
+</div>
+
+---
+
+What does a router do?
+
+- Routes traffic 
+- Acts as a gateway to the internet
+- Firewall
+- Provides wireless connection
+- DNS resolver
+- Software and hardware define rules
+
+---
+
+<div class="left" style="width:40%"> <h1>Create open source resources</h1></div>
+
+<div class="right" style="width:50%">
+<img src="./tutorials.png" alt="">
+</div>
 
 ---
 
@@ -27,8 +59,8 @@ Wireless Access Point
 
 --- 
 
-<div class="left" style="width:40%"> <h1>Create open source resources</h1></div>
+![access splash page](splashpage-community.png)
 
-<div class="right" style="width:50%">
-<img src="./tutorials.png" alt="">
-</div>
+---
+
+![Community portal](community-routerscreen.png)

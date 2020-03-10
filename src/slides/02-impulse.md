@@ -13,8 +13,8 @@ To do this I am making computer networking devices which augment how subnetworks
 
 ---
 
-<div class="left" style="width:40%">
-The Network Router
+<div class="left" style="width:40%; padding-left:100px;">
+<h3>The Network Router</h3>
 <hr/>
 Routers act as gateways to the internet. They form local networks and provide a link to outside networks.
 </div>

@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     name: `Mark Lam`,
     title: `Bridges to the Internet`,
-    date: `March 06, 2020`,
+    date: `March 10, 2020`,
   },
   plugins: [
     `gatsby-plugin-layout`,

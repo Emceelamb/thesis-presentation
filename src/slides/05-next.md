@@ -6,6 +6,18 @@
 
 ---
 
+but how?
+
+---
+
+Routers with networking rules that reflect the communities they serve
+
+---
+
+Routers that bridge the local to internet
+
+---
+
 <div class="left" style="width:50%">
 <h1>Thank you!</h1>
 <ul style="list-style-type:none">

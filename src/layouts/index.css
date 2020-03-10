@@ -178,3 +178,17 @@ header a:hover {
 header span {
   color: var(--text);
 }
+
+.gridImg {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.gridImg > div {
+  flex: 1 1 150px;
+}
+
+.gridItem {
+  margin: 10px;
+}
