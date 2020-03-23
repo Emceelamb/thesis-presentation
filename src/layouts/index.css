@@ -192,3 +192,8 @@ header span {
 .gridItem {
   margin: 10px;
 }
+
+.center {
+  margin: auto;
+  width:800px;
+}

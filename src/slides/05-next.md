@@ -10,7 +10,13 @@ but how?
 
 ---
 
-Routers with networking rules that reflect the communities they serve
+Routers with networking rules (personalities) that reflect the communities they serve
+
+---
+
+- How would an anti-capitalist router behave?
+- How would a  parental router behave?
+- How would an introvert router behave?
 
 ---
 

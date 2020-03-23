@@ -16,12 +16,6 @@ _Being Radiotropic_, 2016
 
 ---
 
-Heath Bunting
-
-![Own, be owned, or remain invisible](heathbunting.jpg)
-
----
-
 net.art  
 
 ![Simple Net Art Diagram](netartdiagram.gif)
@@ -31,7 +25,7 @@ net.art
 ---
 
 Accessibility of technical information  
-Protocols that define channels of communication  
+Protocols that define communication  
 Re-imagine networked technology  
 
 ---
@@ -48,7 +42,7 @@ The Critical Engineering Manifesto
 <div style="font-size:14px; width:800px;margin:auto">
 <ul style="list-style-type: none;">
 <li>0. The Critical Engineer considers Engineering to be the most transformative language of our time, shaping the way we move, communicate and think. It is the work of the Critical Engineer to study and exploit this language, exposing its influence.   </li>
-<li>1. The Critical Engineer considers any technology depended upon to be both a challenge and a threat. The greater the dependence on a technology the greater the need to study and expose its inner workings, regardless of ownership or legal provision.   </li>
+<li>1. The Critical Engineer considers any technology depended upon to be both a challenge and a threat.<b style="font-size:18px; color: red"> The greater the dependence on a technology the greater the need to study and expose its inner workings</b>, regardless of ownership or legal provision.  </li>
 <li>2. The Critical Engineer raises awareness that with each technological advance our techno-political literacy is challenged.   </li>
 <li>3. The Critical Engineer deconstructs and incites suspicion of rich user experiences.   </li>
 <li>4. The Critical Engineer looks beyond the "awe of implementation" to determine methods of influence and their specific effects.   </li>
@@ -75,7 +69,7 @@ A feminist server…
 <div style="font-size:14px; margin:auto; width:800px;">
 <ul>
 <li>Is a situated technology. She has a sense of context and considers herself to be part of an ecology of practices</li>
-<li>Is run for and by a community that cares enough for her in order to make her exist</li>
+<li><b style="font-size:18px;color:red;">Is run for and by a community that cares enough for her in order to make her exist</b></li>
 <li>Builds on the materiality of software, hardware and the bodies gathered around it</li>
 <li>Opens herself to expose processes, tools, sources, habits, patterns</li>
 <li>Does not strive for seamlessness. Talk of transparency too often signals that something is being made invisible</li>

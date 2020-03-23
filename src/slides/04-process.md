@@ -2,6 +2,36 @@
 
 ---
 
+## Listen to the Network
+
+<div style="margin:auto; max-width:800px"><video width="100%" controls>
+  <source src="./listennetwork3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> </div>
+
+---
+
+## Coffee Can WiFi
+<div style="margin:auto; max-width:800px"><video width="100%" controls>
+  <source src="./coffeecan_export.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> </div>
+
+Plays music scale  based on connected peers
+
+---
+
+## Traceroute map
+<div style="margin:auto; max-width:800px"><video width="100%" controls>
+  <source src="./compassvid.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> </div>
+
+Map server hops from network
+
+---
+What makes a router?
+
 <div style="width:800px; margin:auto;">
 <div class="gridImg">
 <div class="gridItem"><img src="./netgearoutside.jpg" alt=""></div>
@@ -12,17 +42,6 @@
 <div class="gridItem"><img src="./switchoutside.jpg" alt=""></div>
 </div>
 </div>
-
----
-
-What does a router do?
-
-- Routes traffic 
-- Acts as a gateway to the internet
-- Firewall
-- Provides wireless connection
-- DNS resolver
-- Software and hardware define rules
 
 ---
 
@@ -64,3 +83,25 @@ Wireless Access Point
 ---
 
 ![Community portal](community-routerscreen.png)
+
+---
+
+Key Components:  
+<div class="center">
+<ul>
+<li>Network Events</li>
+<li>Splash page</li>
+<li>Network peers</li>
+<li>Deep packet inspection</li>
+<ul>
+  <li>Domains</li>
+  <li>Ports (protocol)</li>
+  <li>IP Addresses</li>
+</ul>
+<li>Network Events</li>
+<li>Firewall</li>
+<li>Web server</li>
+<li>Voting system</li>
+</ul>
+</div>
+
